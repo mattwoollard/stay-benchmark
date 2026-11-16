@@ -2,6 +2,116 @@
  "updated": "2026-11-16",
  "properties": [
   {
+   "name": "Pavilions at Lenswood",
+   "region": "A",
+   "focus": false,
+   "units": 6,
+   "since": "2026-10-04",
+   "allin": false,
+   "occ7": [
+    31,
+    42
+   ],
+   "occ30": [
+    116,
+    180
+   ],
+   "occ90": [
+    249,
+    540
+   ],
+   "past30": [
+    151,
+    180
+   ],
+   "rate_booked": 629,
+   "rate_open": 575,
+   "new7": 20,
+   "bookings": 111,
+   "lead": 44,
+   "months": [
+    [
+     68,
+     90
+    ],
+    [
+     105,
+     186
+    ],
+    [
+     66,
+     186
+    ],
+    [
+     26,
+     168
+    ],
+    [
+     21,
+     186
+    ],
+    [
+     33,
+     180
+    ]
+   ]
+  },
+  {
+   "name": "Sticky Rice Villas",
+   "region": "A",
+   "focus": false,
+   "units": 3,
+   "since": "2026-10-04",
+   "allin": false,
+   "occ7": [
+    13,
+    21
+   ],
+   "occ30": [
+    42,
+    90
+   ],
+   "occ90": [
+    78,
+    270
+   ],
+   "past30": [
+    61,
+    90
+   ],
+   "rate_booked": 594,
+   "rate_open": 558,
+   "new7": 6,
+   "bookings": 67,
+   "lead": 46,
+   "months": [
+    [
+     28,
+     45
+    ],
+    [
+     31,
+     93
+    ],
+    [
+     14,
+     93
+    ],
+    [
+     5,
+     84
+    ],
+    [
+     10,
+     93
+    ],
+    [
+     4,
+     90
+    ]
+   ]
+  },
+  {
    "name": "Cladich Pavilions",
    "region": "A",
    "focus": false,
@@ -53,6 +163,886 @@
     [
      0,
      0
+    ]
+   ]
+  },
+  {
+   "name": "Nature's Den",
+   "region": "A",
+   "focus": false,
+   "units": 4,
+   "since": "2026-10-04",
+   "allin": true,
+   "occ7": [
+    19,
+    28
+   ],
+   "occ30": [
+    60,
+    120
+   ],
+   "occ90": [
+    126,
+    360
+   ],
+   "past30": [
+    95,
+    114
+   ],
+   "rate_booked": 286,
+   "rate_open": 277,
+   "new7": 13,
+   "bookings": 49,
+   "lead": 28,
+   "months": [
+    [
+     36,
+     60
+    ],
+    [
+     61,
+     124
+    ],
+    [
+     25,
+     124
+    ],
+    [
+     14,
+     112
+    ],
+    [
+     3,
+     124
+    ],
+    [
+     0,
+     120
+    ]
+   ]
+  },
+  {
+   "name": "Casa Luna",
+   "region": "A",
+   "focus": false,
+   "units": 1,
+   "since": "2026-10-04",
+   "allin": true,
+   "occ7": [
+    4,
+    7
+   ],
+   "occ30": [
+    10,
+    30
+   ],
+   "occ90": [
+    10,
+    90
+   ],
+   "past30": [
+    15,
+    29
+   ],
+   "rate_booked": 764,
+   "rate_open": 758,
+   "new7": 0,
+   "bookings": 4,
+   "lead": 40,
+   "months": [
+    [
+     8,
+     15
+    ],
+    [
+     2,
+     31
+    ],
+    [
+     0,
+     31
+    ],
+    [
+     0,
+     28
+    ],
+    [
+     0,
+     31
+    ],
+    [
+     0,
+     30
+    ]
+   ]
+  },
+  {
+   "name": "Caladenia",
+   "region": "A",
+   "focus": false,
+   "units": 1,
+   "since": "2026-10-04",
+   "allin": true,
+   "occ7": [
+    5,
+    7
+   ],
+   "occ30": [
+    25,
+    30
+   ],
+   "occ90": [
+    25,
+    32
+   ],
+   "past30": [
+    29,
+    29
+   ],
+   "rate_booked": 402,
+   "rate_open": 396,
+   "new7": 1,
+   "bookings": 17,
+   "lead": 0,
+   "months": [
+    [
+     11,
+     15
+    ],
+    [
+     14,
+     17
+    ],
+    [
+     0,
+     0
+    ],
+    [
+     0,
+     0
+    ],
+    [
+     0,
+     31
+    ],
+    [
+     9,
+     30
+    ]
+   ]
+  },
+  {
+   "name": "The House on Soul Hill",
+   "region": "A",
+   "focus": false,
+   "units": 1,
+   "since": "2026-10-04",
+   "allin": true,
+   "occ7": [
+    7,
+    7
+   ],
+   "occ30": [
+    15,
+    30
+   ],
+   "occ90": [
+    28,
+    90
+   ],
+   "past30": [
+    29,
+    29
+   ],
+   "rate_booked": 468,
+   "rate_open": 467,
+   "new7": 2,
+   "bookings": 17,
+   "lead": 2,
+   "months": [
+    [
+     11,
+     15
+    ],
+    [
+     14,
+     31
+    ],
+    [
+     3,
+     31
+    ],
+    [
+     0,
+     28
+    ],
+    [
+     0,
+     31
+    ],
+    [
+     3,
+     30
+    ]
+   ]
+  },
+  {
+   "name": "Adelaide Hills House",
+   "region": "A",
+   "focus": false,
+   "units": 1,
+   "since": "2026-10-04",
+   "allin": true,
+   "occ7": [
+    6,
+    7
+   ],
+   "occ30": [
+    14,
+    30
+   ],
+   "occ90": [
+    59,
+    90
+   ],
+   "past30": [
+    29,
+    29
+   ],
+   "rate_booked": 966,
+   "rate_open": 967,
+   "new7": 0,
+   "bookings": 22,
+   "lead": 2,
+   "months": [
+    [
+     6,
+     15
+    ],
+    [
+     21,
+     31
+    ],
+    [
+     23,
+     31
+    ],
+    [
+     18,
+     28
+    ],
+    [
+     0,
+     31
+    ],
+    [
+     10,
+     30
+    ]
+   ]
+  },
+  {
+   "name": "The Gladys",
+   "region": "A",
+   "focus": false,
+   "units": 1,
+   "since": "2026-10-19",
+   "allin": true,
+   "occ7": [
+    4,
+    7
+   ],
+   "occ30": [
+    18,
+    30
+   ],
+   "occ90": [
+    52,
+    90
+   ],
+   "past30": [
+    22,
+    27
+   ],
+   "rate_booked": 576,
+   "rate_open": 540,
+   "new7": 1,
+   "bookings": 5,
+   "lead": 99,
+   "months": [
+    [
+     10,
+     15
+    ],
+    [
+     18,
+     31
+    ],
+    [
+     19,
+     31
+    ],
+    [
+     9,
+     28
+    ],
+    [
+     6,
+     31
+    ],
+    [
+     6,
+     30
+    ]
+   ]
+  },
+  {
+   "name": "Koolyangarra Cottage",
+   "region": "A",
+   "focus": false,
+   "units": 1,
+   "since": "2026-10-19",
+   "allin": true,
+   "occ7": [
+    7,
+    7
+   ],
+   "occ30": [
+    26,
+    30
+   ],
+   "occ90": [
+    63,
+    90
+   ],
+   "past30": [
+    27,
+    27
+   ],
+   "rate_booked": 373,
+   "rate_open": 373,
+   "new7": 7,
+   "bookings": 10,
+   "lead": 15,
+   "months": [
+    [
+     15,
+     15
+    ],
+    [
+     25,
+     31
+    ],
+    [
+     16,
+     31
+    ],
+    [
+     7,
+     28
+    ],
+    [
+     8,
+     31
+    ],
+    [
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "name": "Holly Cottage",
+   "region": "A",
+   "focus": false,
+   "units": 1,
+   "since": "2026-10-19",
+   "allin": true,
+   "occ7": [
+    7,
+    7
+   ],
+   "occ30": [
+    21,
+    30
+   ],
+   "occ90": [
+    39,
+    90
+   ],
+   "past30": [
+    22,
+    27
+   ],
+   "rate_booked": 375,
+   "rate_open": 341,
+   "new7": 9,
+   "bookings": 9,
+   "lead": 30,
+   "months": [
+    [
+     11,
+     15
+    ],
+    [
+     17,
+     31
+    ],
+    [
+     11,
+     31
+    ],
+    [
+     0,
+     28
+    ],
+    [
+     0,
+     31
+    ],
+    [
+     3,
+     30
+    ]
+   ]
+  },
+  {
+   "name": "Stone Gate Cottage",
+   "region": "A",
+   "focus": false,
+   "units": 1,
+   "since": "2026-10-19",
+   "allin": true,
+   "occ7": [
+    4,
+    7
+   ],
+   "occ30": [
+    22,
+    30
+   ],
+   "occ90": [
+    57,
+    90
+   ],
+   "past30": [
+    25,
+    27
+   ],
+   "rate_booked": 396,
+   "rate_open": 361,
+   "new7": 11,
+   "bookings": 8,
+   "lead": 36,
+   "months": [
+    [
+     9,
+     15
+    ],
+    [
+     24,
+     31
+    ],
+    [
+     20,
+     31
+    ],
+    [
+     4,
+     28
+    ],
+    [
+     6,
+     31
+    ],
+    [
+     11,
+     30
+    ]
+   ]
+  },
+  {
+   "name": "Ode to the Orchard",
+   "region": "A",
+   "focus": false,
+   "units": 1,
+   "since": "2026-10-19",
+   "allin": true,
+   "occ7": [
+    1,
+    7
+   ],
+   "occ30": [
+    15,
+    30
+   ],
+   "occ90": [
+    44,
+    90
+   ],
+   "past30": [
+    21,
+    27
+   ],
+   "rate_booked": 537,
+   "rate_open": 547,
+   "new7": 1,
+   "bookings": 9,
+   "lead": 31,
+   "months": [
+    [
+     7,
+     15
+    ],
+    [
+     21,
+     31
+    ],
+    [
+     13,
+     31
+    ],
+    [
+     4,
+     28
+    ],
+    [
+     12,
+     31
+    ],
+    [
+     12,
+     30
+    ]
+   ]
+  },
+  {
+   "name": "Inverness Cottage",
+   "region": "A",
+   "focus": false,
+   "units": 1,
+   "since": "2026-10-19",
+   "allin": true,
+   "occ7": [
+    7,
+    7
+   ],
+   "occ30": [
+    30,
+    30
+   ],
+   "occ90": [
+    46,
+    61
+   ],
+   "past30": [
+    27,
+    27
+   ],
+   "rate_booked": 518,
+   "rate_open": 518,
+   "new7": 0,
+   "bookings": 0,
+   "lead": null,
+   "months": [
+    [
+     15,
+     15
+    ],
+    [
+     31,
+     31
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     0,
+     12
+    ],
+    [
+     0,
+     0
+    ],
+    [
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "name": "Moemoea Cottage",
+   "region": "A",
+   "focus": false,
+   "units": 1,
+   "since": "2026-10-19",
+   "allin": true,
+   "occ7": [
+    3,
+    7
+   ],
+   "occ30": [
+    13,
+    30
+   ],
+   "occ90": [
+    34,
+    90
+   ],
+   "past30": [
+    10,
+    27
+   ],
+   "rate_booked": 518,
+   "rate_open": 526,
+   "new7": 1,
+   "bookings": 1,
+   "lead": 33,
+   "months": [
+    [
+     5,
+     15
+    ],
+    [
+     23,
+     31
+    ],
+    [
+     4,
+     31
+    ],
+    [
+     8,
+     28
+    ],
+    [
+     6,
+     31
+    ],
+    [
+     6,
+     30
+    ]
+   ]
+  },
+  {
+   "name": "Botanique House",
+   "region": "A",
+   "focus": false,
+   "units": 1,
+   "since": "2026-10-19",
+   "allin": true,
+   "occ7": [
+    7,
+    7
+   ],
+   "occ30": [
+    26,
+    30
+   ],
+   "occ90": [
+    26,
+    32
+   ],
+   "past30": [
+    27,
+    27
+   ],
+   "rate_booked": 1318,
+   "rate_open": 1322,
+   "new7": 0,
+   "bookings": 10,
+   "lead": 0,
+   "months": [
+    [
+     15,
+     15
+    ],
+    [
+     11,
+     15
+    ],
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     0
+    ],
+    [
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "name": "Vihara Valley",
+   "region": "A",
+   "focus": false,
+   "units": 1,
+   "since": "2026-10-19",
+   "allin": true,
+   "occ7": [
+    3,
+    7
+   ],
+   "occ30": [
+    3,
+    18
+   ],
+   "occ90": [
+    3,
+    40
+   ],
+   "past30": [
+    13,
+    27
+   ],
+   "rate_booked": 1402,
+   "rate_open": 1086,
+   "new7": 0,
+   "bookings": 0,
+   "lead": null,
+   "months": [
+    [
+     3,
+     15
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     0,
+     9
+    ],
+    [
+     0,
+     28
+    ],
+    [
+     0,
+     31
+    ],
+    [
+     0,
+     30
+    ]
+   ]
+  },
+  {
+   "name": "Heritage House & Garden Aldgate",
+   "region": "A",
+   "focus": false,
+   "units": 1,
+   "since": "2026-10-19",
+   "allin": true,
+   "occ7": [
+    5,
+    7
+   ],
+   "occ30": [
+    10,
+    30
+   ],
+   "occ90": [
+    24,
+    90
+   ],
+   "past30": [
+    19,
+    27
+   ],
+   "rate_booked": 569,
+   "rate_open": 525,
+   "new7": 3,
+   "bookings": 5,
+   "lead": 43,
+   "months": [
+    [
+     6,
+     15
+    ],
+    [
+     7,
+     31
+    ],
+    [
+     11,
+     31
+    ],
+    [
+     0,
+     28
+    ],
+    [
+     1,
+     31
+    ],
+    [
+     4,
+     30
+    ]
+   ]
+  },
+  {
+   "name": "Esto Wines",
+   "region": "A",
+   "focus": false,
+   "units": 2,
+   "since": "2026-10-19",
+   "allin": false,
+   "occ7": [
+    12,
+    14
+   ],
+   "occ30": [
+    36,
+    60
+   ],
+   "occ90": [
+    94,
+    159
+   ],
+   "past30": [
+    56,
+    56
+   ],
+   "rate_booked": 371,
+   "rate_open": 360,
+   "new7": 21,
+   "bookings": 37,
+   "lead": 56,
+   "months": [
+    [
+     23,
+     30
+    ],
+    [
+     39,
+     62
+    ],
+    [
+     24,
+     41
+    ],
+    [
+     15,
+     56
+    ],
+    [
+     28,
+     62
+    ],
+    [
+     36,
+     60
     ]
    ]
   },
@@ -110,104 +1100,1039 @@
      270
     ]
    ]
+  },
+  {
+   "name": "Samphire Retreat",
+   "region": "B",
+   "focus": true,
+   "units": 2,
+   "since": "2026-11-06",
+   "allin": true,
+   "occ7": [
+    8,
+    14
+   ],
+   "occ30": [
+    17,
+    60
+   ],
+   "occ90": [
+    36,
+    180
+   ],
+   "past30": [
+    10,
+    18
+   ],
+   "rate_booked": 841,
+   "rate_open": 804,
+   "new7": 8,
+   "bookings": 3,
+   "lead": 0,
+   "months": [
+    [
+     11,
+     30
+    ],
+    [
+     17,
+     62
+    ],
+    [
+     8,
+     62
+    ],
+    [
+     0,
+     56
+    ],
+    [
+     0,
+     62
+    ],
+    [
+     0,
+     60
+    ]
+   ]
+  },
+  {
+   "name": "The Dune House",
+   "region": "B",
+   "focus": false,
+   "units": 1,
+   "since": "2026-11-06",
+   "allin": true,
+   "occ7": [
+    5,
+    7
+   ],
+   "occ30": [
+    5,
+    30
+   ],
+   "occ90": [
+    5,
+    66
+   ],
+   "past30": [
+    1,
+    9
+   ],
+   "rate_booked": 2253,
+   "rate_open": 2297,
+   "new7": 0,
+   "bookings": 0,
+   "lead": null,
+   "months": [
+    [
+     5,
+     15
+    ],
+    [
+     0,
+     17
+    ],
+    [
+     0,
+     21
+    ],
+    [
+     0,
+     28
+    ],
+    [
+     5,
+     31
+    ],
+    [
+     0,
+     30
+    ]
+   ]
+  },
+  {
+   "name": "Nori Retreat",
+   "region": "B",
+   "focus": false,
+   "units": 1,
+   "since": "2026-11-06",
+   "allin": true,
+   "occ7": [
+    0,
+    7
+   ],
+   "occ30": [
+    0,
+    30
+   ],
+   "occ90": [
+    7,
+    90
+   ],
+   "past30": [
+    1,
+    9
+   ],
+   "rate_booked": 630,
+   "rate_open": 656,
+   "new7": 0,
+   "bookings": 0,
+   "lead": null,
+   "months": [
+    [
+     0,
+     15
+    ],
+    [
+     0,
+     31
+    ],
+    [
+     7,
+     31
+    ],
+    [
+     0,
+     28
+    ],
+    [
+     0,
+     31
+    ],
+    [
+     0,
+     30
+    ]
+   ]
+  },
+  {
+   "name": "Autra Resort Middleton",
+   "region": "B",
+   "focus": false,
+   "units": 1,
+   "since": "2026-11-06",
+   "allin": true,
+   "occ7": [
+    2,
+    7
+   ],
+   "occ30": [
+    2,
+    30
+   ],
+   "occ90": [
+    5,
+    90
+   ],
+   "past30": [
+    7,
+    9
+   ],
+   "rate_booked": 507,
+   "rate_open": 499,
+   "new7": 0,
+   "bookings": 1,
+   "lead": 0,
+   "months": [
+    [
+     2,
+     15
+    ],
+    [
+     0,
+     31
+    ],
+    [
+     3,
+     31
+    ],
+    [
+     0,
+     28
+    ],
+    [
+     0,
+     31
+    ],
+    [
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "name": "Merilli 1885",
+   "region": "B",
+   "focus": false,
+   "units": 1,
+   "since": "2026-11-06",
+   "allin": true,
+   "occ7": [
+    0,
+    7
+   ],
+   "occ30": [
+    2,
+    30
+   ],
+   "occ90": [
+    15,
+    90
+   ],
+   "past30": [
+    0,
+    9
+   ],
+   "rate_booked": 900,
+   "rate_open": 900,
+   "new7": 2,
+   "bookings": 1,
+   "lead": 19,
+   "months": [
+    [
+     2,
+     15
+    ],
+    [
+     2,
+     31
+    ],
+    [
+     11,
+     31
+    ],
+    [
+     2,
+     28
+    ],
+    [
+     8,
+     31
+    ],
+    [
+     2,
+     30
+    ]
+   ]
+  },
+  {
+   "name": "The Sanctuary",
+   "region": "B",
+   "focus": false,
+   "units": 1,
+   "since": "2026-11-06",
+   "allin": true,
+   "occ7": [
+    3,
+    7
+   ],
+   "occ30": [
+    6,
+    30
+   ],
+   "occ90": [
+    11,
+    90
+   ],
+   "past30": [
+    7,
+    9
+   ],
+   "rate_booked": 944,
+   "rate_open": 966,
+   "new7": 6,
+   "bookings": 2,
+   "lead": 65,
+   "months": [
+    [
+     4,
+     15
+    ],
+    [
+     2,
+     31
+    ],
+    [
+     5,
+     31
+    ],
+    [
+     2,
+     28
+    ],
+    [
+     0,
+     31
+    ],
+    [
+     0,
+     30
+    ]
+   ]
+  },
+  {
+   "name": "Bridge View Goolwa",
+   "region": "B",
+   "focus": false,
+   "units": 1,
+   "since": "2026-11-06",
+   "allin": true,
+   "occ7": [
+    7,
+    7
+   ],
+   "occ30": [
+    17,
+    30
+   ],
+   "occ90": [
+    19,
+    68
+   ],
+   "past30": [
+    9,
+    9
+   ],
+   "rate_booked": 576,
+   "rate_open": 623,
+   "new7": 4,
+   "bookings": 7,
+   "lead": 2,
+   "months": [
+    [
+     10,
+     15
+    ],
+    [
+     9,
+     26
+    ],
+    [
+     0,
+     14
+    ],
+    [
+     0,
+     28
+    ],
+    [
+     12,
+     31
+    ],
+    [
+     8,
+     30
+    ]
+   ]
+  },
+  {
+   "name": "Romantic Cottage by the Sea",
+   "region": "B",
+   "focus": false,
+   "units": 1,
+   "since": "2026-11-06",
+   "allin": true,
+   "occ7": [
+    2,
+    7
+   ],
+   "occ30": [
+    8,
+    30
+   ],
+   "occ90": [
+    12,
+    90
+   ],
+   "past30": [
+    2,
+    9
+   ],
+   "rate_booked": 437,
+   "rate_open": 530,
+   "new7": 9,
+   "bookings": 2,
+   "lead": 32,
+   "months": [
+    [
+     4,
+     15
+    ],
+    [
+     8,
+     31
+    ],
+    [
+     0,
+     31
+    ],
+    [
+     0,
+     28
+    ],
+    [
+     0,
+     31
+    ],
+    [
+     0,
+     30
+    ]
+   ]
+  },
+  {
+   "name": "FloatHOME Goolwa",
+   "region": "B",
+   "focus": false,
+   "units": 1,
+   "since": "2026-11-06",
+   "allin": true,
+   "occ7": [
+    2,
+    7
+   ],
+   "occ30": [
+    3,
+    30
+   ],
+   "occ90": [
+    11,
+    90
+   ],
+   "past30": [
+    3,
+    9
+   ],
+   "rate_booked": 343,
+   "rate_open": 338,
+   "new7": 4,
+   "bookings": 4,
+   "lead": 9,
+   "months": [
+    [
+     2,
+     15
+    ],
+    [
+     6,
+     31
+    ],
+    [
+     2,
+     31
+    ],
+    [
+     1,
+     28
+    ],
+    [
+     0,
+     31
+    ],
+    [
+     0,
+     30
+    ]
+   ]
+  },
+  {
+   "name": "Piccolina Floating",
+   "region": "B",
+   "focus": false,
+   "units": 1,
+   "since": "2026-11-06",
+   "allin": true,
+   "occ7": [
+    2,
+    7
+   ],
+   "occ30": [
+    9,
+    30
+   ],
+   "occ90": [
+    34,
+    90
+   ],
+   "past30": [
+    7,
+    9
+   ],
+   "rate_booked": 298,
+   "rate_open": 298,
+   "new7": 0,
+   "bookings": 2,
+   "lead": 18,
+   "months": [
+    [
+     6,
+     15
+    ],
+    [
+     9,
+     31
+    ],
+    [
+     15,
+     31
+    ],
+    [
+     4,
+     28
+    ],
+    [
+     1,
+     31
+    ],
+    [
+     0,
+     30
+    ]
+   ]
+  },
+  {
+   "name": "PS Federal Retreat",
+   "region": "B",
+   "focus": false,
+   "units": 1,
+   "since": "2026-11-06",
+   "allin": true,
+   "occ7": [
+    5,
+    7
+   ],
+   "occ30": [
+    22,
+    30
+   ],
+   "occ90": [
+    25,
+    65
+   ],
+   "past30": [
+    5,
+    9
+   ],
+   "rate_booked": 238,
+   "rate_open": 237,
+   "new7": 2,
+   "bookings": 3,
+   "lead": 6,
+   "months": [
+    [
+     10,
+     15
+    ],
+    [
+     14,
+     21
+    ],
+    [
+     0,
+     16
+    ],
+    [
+     4,
+     21
+    ],
+    [
+     3,
+     9
+    ],
+    [
+     4,
+     30
+    ]
+   ]
+  },
+  {
+   "name": "Serenity Tiny Home",
+   "region": "B",
+   "focus": false,
+   "units": 1,
+   "since": "2026-11-06",
+   "allin": true,
+   "occ7": [
+    3,
+    7
+   ],
+   "occ30": [
+    24,
+    30
+   ],
+   "occ90": [
+    60,
+    90
+   ],
+   "past30": [
+    8,
+    9
+   ],
+   "rate_booked": 419,
+   "rate_open": 420,
+   "new7": 19,
+   "bookings": 9,
+   "lead": 60,
+   "months": [
+    [
+     10,
+     15
+    ],
+    [
+     26,
+     31
+    ],
+    [
+     20,
+     31
+    ],
+    [
+     7,
+     28
+    ],
+    [
+     3,
+     24
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  {
+   "name": "Away At Ancell",
+   "region": "B",
+   "focus": false,
+   "units": 1,
+   "since": "2026-11-06",
+   "allin": true,
+   "occ7": [
+    3,
+    7
+   ],
+   "occ30": [
+    17,
+    30
+   ],
+   "occ90": [
+    33,
+    90
+   ],
+   "past30": [
+    6,
+    9
+   ],
+   "rate_booked": 310,
+   "rate_open": 311,
+   "new7": 4,
+   "bookings": 6,
+   "lead": 32,
+   "months": [
+    [
+     9,
+     15
+    ],
+    [
+     17,
+     31
+    ],
+    [
+     6,
+     31
+    ],
+    [
+     2,
+     28
+    ],
+    [
+     4,
+     31
+    ],
+    [
+     1,
+     30
+    ]
+   ]
+  },
+  {
+   "name": "Fleetwood Shack",
+   "region": "B",
+   "focus": false,
+   "units": 1,
+   "since": "2026-11-06",
+   "allin": true,
+   "occ7": [
+    6,
+    7
+   ],
+   "occ30": [
+    17,
+    30
+   ],
+   "occ90": [
+    33,
+    67
+   ],
+   "past30": [
+    3,
+    9
+   ],
+   "rate_booked": 464,
+   "rate_open": 445,
+   "new7": 0,
+   "bookings": 1,
+   "lead": 8,
+   "months": [
+    [
+     8,
+     15
+    ],
+    [
+     21,
+     31
+    ],
+    [
+     4,
+     8
+    ],
+    [
+     3,
+     28
+    ],
+    [
+     0,
+     31
+    ],
+    [
+     1,
+     30
+    ]
+   ]
+  },
+  {
+   "name": "Old Coach Road Estate",
+   "region": "B",
+   "focus": false,
+   "units": 1,
+   "since": "2026-11-09",
+   "allin": true,
+   "occ7": [
+    5,
+    7
+   ],
+   "occ30": [
+    6,
+    30
+   ],
+   "occ90": [
+    13,
+    90
+   ],
+   "past30": [
+    6,
+    6
+   ],
+   "rate_booked": 1179,
+   "rate_open": 1176,
+   "new7": 3,
+   "bookings": 3,
+   "lead": 1,
+   "months": [
+    [
+     6,
+     15
+    ],
+    [
+     7,
+     31
+    ],
+    [
+     0,
+     31
+    ],
+    [
+     4,
+     28
+    ],
+    [
+     7,
+     31
+    ],
+    [
+     17,
+     30
+    ]
+   ]
+  },
+  {
+   "name": "Birks Harbour Boathouse",
+   "region": "B",
+   "focus": false,
+   "units": 1,
+   "since": "2026-11-09",
+   "allin": true,
+   "occ7": [
+    0,
+    7
+   ],
+   "occ30": [
+    0,
+    30
+   ],
+   "occ90": [
+    0,
+    90
+   ],
+   "past30": [
+    0,
+    6
+   ],
+   "rate_booked": null,
+   "rate_open": 385,
+   "new7": 0,
+   "bookings": 0,
+   "lead": null,
+   "months": [
+    [
+     0,
+     15
+    ],
+    [
+     0,
+     31
+    ],
+    [
+     0,
+     31
+    ],
+    [
+     0,
+     28
+    ],
+    [
+     0,
+     31
+    ],
+    [
+     0,
+     30
+    ]
+   ]
+  },
+  {
+   "name": "Monapilla Escape",
+   "region": "B",
+   "focus": false,
+   "units": 1,
+   "since": "2026-11-12",
+   "allin": true,
+   "occ7": [
+    4,
+    7
+   ],
+   "occ30": [
+    15,
+    30
+   ],
+   "occ90": [
+    21,
+    90
+   ],
+   "past30": [
+    3,
+    3
+   ],
+   "rate_booked": 584,
+   "rate_open": 588,
+   "new7": 5,
+   "bookings": 3,
+   "lead": 19,
+   "months": [
+    [
+     10,
+     15
+    ],
+    [
+     10,
+     31
+    ],
+    [
+     1,
+     31
+    ],
+    [
+     0,
+     28
+    ],
+    [
+     0,
+     31
+    ],
+    [
+     9,
+     30
+    ]
+   ]
   }
  ],
  "groups": {
   "A": {
-   "units": 12,
-   "count": 2,
+   "units": 41,
+   "count": 20,
    "occ7": [
-    54,
-    84
+    199,
+    287
    ],
    "occ30": [
-    139,
-    354
+    641,
+    1212
    ],
    "occ90": [
-    273,
-    894
+    1330,
+    3288
    ],
    "past30": [
-    237,
-    360
+    915,
+    1186
    ],
    "months": [
     [
-     93,
-     180
+     380,
+     615
     ],
     [
-     116,
-     318
+     580,
+     1159
     ],
     [
-     57,
-     279
+     306,
+     1046
     ],
     [
-     20,
-     252
+     130,
+     993
     ],
     [
-     25,
-     279
+     126,
+     1116
     ],
     [
-     71,
-     270
+     208,
+     1050
     ]
    ],
-   "rate_booked": 504,
-   "new7": 54
+   "rate_booked": 604,
+   "new7": 150
   },
   "B": {
-   "units": 0,
-   "count": 0,
+   "units": 16,
+   "count": 16,
    "occ7": [
-    0,
-    0
+    49,
+    112
    ],
    "occ30": [
-    0,
-    0
+    153,
+    480
    ],
    "occ90": [
-    0,
-    0
+    304,
+    1346
    ],
    "past30": [
-    0,
-    0
+    68,
+    132
    ],
    "months": [
     [
-     0,
-     0
+     88,
+     240
     ],
     [
-     0,
-     0
+     131,
+     467
     ],
     [
-     0,
-     0
+     74,
+     431
     ],
     [
-     0,
-     0
+     29,
+     441
     ],
     [
-     0,
-     0
+     43,
+     467
     ],
     [
-     0,
-     0
+     42,
+     421
     ]
    ],
-   "rate_booked": null,
-   "new7": 0
+   "rate_booked": 672,
+   "new7": 58
   }
  }
 }
